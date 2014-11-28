@@ -1,0 +1,2 @@
+mv is a Unix command that can be used to either mv a file from one location to another, or to rename a file. 
+If necessary, the mv command can perform both actions at the same time.
