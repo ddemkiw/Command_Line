@@ -1,4 +1,0 @@
-grep command is a Global Regular Expression search that which prints the result. grep takes two parameters
-1) the regular expression (keyword) you are looking for
-2) files/directories that you would like to search 
-grep keyword files
